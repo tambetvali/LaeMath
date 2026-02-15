@@ -1,6 +1,5 @@
 # Preface  
 ### A Unified View of Scale, Structure, and Transformation  
-### (Preface in the Same Format as All Previous Blocks)
 
 This work presents a single, coherent way to understand numbers, scales, dimensions, and transformations through the lens of **octaves**, **harmonics**, and **projection symmetry**.  
 It brings together ideas that are usually treated separately — logarithmic behavior, linear change, exponential growth, dimensional compression, and harmonic structure — and shows that they can be expressed through one unified, symmetric framework.
