@@ -2,6 +2,8 @@ Notice: [CALCULATORS.md](CALCULATORS.md) contains both calculative paradigms imp
 also includes some spiritual counterparts: how to scale yin-yang / global/local/subthreshold scales in spirituality to verify or confirm their math and use it for trial
 and error.
 
+[Website](https://theorem-theater.lovable.app) introduction - lovable.dev website.
+
 # Preface  
 ### A Unified View of Scale, Structure, and Transformation  
 
