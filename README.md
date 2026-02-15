@@ -1,3 +1,9 @@
+You can continue to introduction of whole interface - some, say, 7-10 functions (how to see it), which can be used to interpolate on whole Laegna math, and also any advanced
+math I added to my narrative of the AI and it's development to exponomenter compatible complex number AI: [development math and axiomatic](https://github.com/tambetvali/LaeMath/tree/main/MathFuncs/Docs); this is kind of trivialization of basic properties you would expect from fourier and hilbert, and takes care
+of anything introduced by my infinity math: any of it's calculations which is not plain logic, or repetition of essential school math in higher sphere. Finally, if you look
+how feq clauses there are, the space is not *so high* - rather, you can handle it with your normal human capabilities and reach conclusions, deductions and implications you
+deserve.
+
 # **Preface — LaeMath as a Shared Mathematical Language**
 
 LaeMath is presented as a mathematical framework intended for readers from different backgrounds: those interested in spiritual reasoning, those working in technological fields, and those who approach ideas through classical mathematics. It is not tied to any single repository or project; instead, it offers a common structure that can be used across various branches of inquiry.
