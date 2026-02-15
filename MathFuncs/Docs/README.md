@@ -1,3 +1,7 @@
+Notice: [CALCULATORS.md](CALCULATORS.md) contains both calculative paradigms implemented as interactive calculators, to test the ideas on the fly. The simplified system
+also includes some spiritual counterparts: how to scale yin-yang / global/local/subthreshold scales in spirituality to verify or confirm their math and use it for trial
+and error.
+
 # Preface  
 ### A Unified View of Scale, Structure, and Transformation  
 
